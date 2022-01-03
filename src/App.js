@@ -20,7 +20,7 @@ function App() {
 
       </MainContentStyled>
     </div>
-  );
+  )
 }
 
 
